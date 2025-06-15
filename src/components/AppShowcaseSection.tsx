@@ -79,7 +79,7 @@ const AppShowcaseSection = () => {
                 <div className="bg-gradient-to-br from-gray-800 to-gray-900 p-2 rounded-3xl shadow-2xl">
                   <div className="bg-white rounded-2xl overflow-hidden shadow-xl">
                     <img 
-                      src="/public/image.jpg" 
+                      src="/image.jpg" 
                       alt="Zapstracts App Splash Screen"
                       className="w-64 h-auto object-cover"
                     />
@@ -96,7 +96,7 @@ const AppShowcaseSection = () => {
                 <div className="bg-gradient-to-br from-purple-600 to-indigo-600 p-2 rounded-3xl shadow-2xl">
                   <div className="bg-white rounded-2xl overflow-hidden shadow-xl">
                     <img 
-                      src="/public/WhatsApp Image 2025-06-16 at 01.39.04_f2684dfe.jpg" 
+                      src="/WhatsApp Image 2025-06-16 at 01.39.04_f2684dfe.jpg" 
                       alt="Zapstracts App Main Interface"
                       className="w-64 h-auto object-cover"
                     />
